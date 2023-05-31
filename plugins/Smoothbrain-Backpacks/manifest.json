@@ -1,0 +1,9 @@
+{
+    "name": "Backpacks",
+    "version_number": "1.0.3",
+    "website_url": "https://github.com/blaxxun-boop/Backpacks",
+    "description": "A simple mod that adds a simple backpack. For now.",
+    "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.1901"
+    ]
+}
