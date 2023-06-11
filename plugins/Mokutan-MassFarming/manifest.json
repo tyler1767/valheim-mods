@@ -1,0 +1,9 @@
+{
+    "name": "MassFarming",
+    "version_number": "1.5.0",
+    "website_url": "https://github.com/Xeio/MassFarming",
+    "description": "Provides a hotkey to mass-pickup and mass plant.",
+    "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.1901"
+    ]
+}
