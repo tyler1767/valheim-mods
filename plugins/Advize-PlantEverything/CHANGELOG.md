@@ -1,3 +1,9 @@
+### 1.13.6
+- Updated for Valheim v0.216.9.
+- Rebuilt embedded asset bundle for Unity 2020.3.45f1.
+- Removing pieces with the cultivator will now play piece specific SFX.
+- Removing pickable objects with the cultivator will now drop its resources before being destroyed.
+
 ### 1.13.5
 - To avoid confusion and to make things more intuitive, [Crops] and [Seeds] categories will no longer display in the BepInEx Configuration Manager unless their respective overrides, EnableCropOverrides and EnableSeedOverrides, are set to true.
 

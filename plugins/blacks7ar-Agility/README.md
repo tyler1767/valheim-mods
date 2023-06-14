@@ -21,17 +21,19 @@ A simple skill mod that increases your attack speed, walk speed, run speed and j
 >## ## Changelog
 <br/>
 
-v1.0.2
-- added attack speed scaling to secondary attacks.
-
-
-v1.0.1
-- fixed secondary attacks attack speed, its no longer affected by skill level scaling
-- adjusted attack speed scaling for each weapon.
+v1.0.3
+- updated to the latest valheim build (216.9)
 
 <details>
 <summary><b>Changelog History</b> (<i>click to expand</i>)</summary>
 <br/>
+
+v1.0.2
+- added attack speed scaling to secondary attacks.
+
+v1.0.1
+- fixed secondary attacks attack speed, its no longer affected by skill level scaling
+- adjusted attack speed scaling for each weapon.
 
 v1.0.0
 - first release.

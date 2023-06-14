@@ -8,6 +8,10 @@ Can be installed on a server, to enforce the configuration.
 
 ### Something that vaguely resembles a change log
 
+#### V1.0.4
+
+Iron Gate made me update the mod with their Valheim update today. Sometimes, I am wondering where it all went wrong. It started out with a simple "Wow, this game is way too easy, I'll make a mod that lets creatures spawn with up to 5 stars." about two years ago. Can't really remember what happened after that, but here I am, managing 70 mods and 30 of them need updates today. About 20 mods in, I am really starting to regret my life choices.
+
 #### V1.0.3
 
 There is a config option that can prevent players from putting backpacks with items inside into a chest, turning the chest into some kind of infinite wormhole for items. Modding would be fun, if it wasn't for the users. How dare you coming up with stuff like that.
