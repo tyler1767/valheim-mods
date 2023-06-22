@@ -21,6 +21,10 @@ A simple skill mod that increases your attack speed, walk speed, run speed and j
 >## ## Changelog
 <br/>
 
+v1.0.4
+- fixed animation bug (sitting, equipping and standing up)
+- added option to disable fall damage so you wont die from falling when jumping too high.
+
 v1.0.3
 - updated to the latest valheim build (216.9)
 

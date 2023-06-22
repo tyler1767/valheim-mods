@@ -1,0 +1,10 @@
+{
+    "name": "ValheimRAFTUpdated",
+    "version_number": "1.4.8",
+    "website_url": "https://www.nexusmods.com/valheim/mods/1136",
+    "description": "Allows you to build your own ship.  Uses the 1.4.8 version uploaded on June 14, 2023. NOTE: You MUST load a savegame that has NOT been loaded by 216.9 yet if you want to restore existing ships. Credits to Sacren on NexusMods.",
+    "dependencies": [
+		"denikson-BepInExPack_Valheim-5.4.1601",
+		"ValheimModding-Jotunn-2.4.0"
+	]
+}
